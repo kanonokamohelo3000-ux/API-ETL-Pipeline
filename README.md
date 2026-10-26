@@ -54,7 +54,7 @@ Requirements
 
 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/python-etl-pipeline.git
+git clone https://github.com/kanonokamohelo3000-ux/python-etl-pipeline.git
 cd python-etl-pipeline
 
 
