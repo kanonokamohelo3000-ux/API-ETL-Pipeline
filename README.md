@@ -110,4 +110,4 @@ Author
 
 KAMOHELO KANONO
 
-GitHub: "YOUR-USERNAME" (https://github.com/kanonokamohelo3000-ux)
+GitHub: "KanonoKamohelo3000-ux" (https://github.com/kanonokamohelo3000-ux)
